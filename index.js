@@ -47,6 +47,10 @@ creating new branch will mean having a copy of the master branch into another br
 > git branch ----branch name (to create new branch)
 >git checkout ----name of the branch(to switch to the new branch)
 
+you can merge the new branch and the master branch like so.
+>git checkout master to switch to the master branch
+> git merge ----name of the branch you want to merge
+
 
 
 */
