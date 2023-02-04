@@ -35,7 +35,12 @@ you can merge the new branch and the master branch like so.
 PUSHING CODE TO GIHHUB
 copy the url of your remote git and paste it in your terminal
 
+>git push origin -----url
+
 >git push origin -----the name of the branch you want to push
+
+
+
 
 TO CREATE A README FILE
 > touch REANME.md (md stands for mark down. its a special formart to write document)
