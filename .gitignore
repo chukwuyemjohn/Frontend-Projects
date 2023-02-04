@@ -1,0 +1,10 @@
+node_modules
+dist
+
+# ADDING FILES TO YOUR GIT
+# steps to using git in the trminal 
+# git init--- to initialize it
+# git config --global user.name ----add your username
+# git config --global user.email ----add your email
+# git status --- this give you an untracked files, you have to add them to the staging area
+# git add -A this is use to add files. the A means add all files
