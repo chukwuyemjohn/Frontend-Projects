@@ -9,3 +9,12 @@ dist
 # git status --- this give you an untracked files, you have to add them to the staging area
 # git add -A this is use to add files. the A means add all files
 # git commit
+
+# TO REVERSE TO THE PREVIOUS COMMIT
+# git reset --hard HEAD
+# TO DELETE FILE THAT HAS BEEN ALREADY COMMITED
+# git log ----shows you all the log that you did
+# copy the ID
+# type q for quit or :q
+# git reset hard and paste in the ID of the commit
+# it 
